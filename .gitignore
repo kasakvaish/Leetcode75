@@ -1045,3 +1045,6 @@ dkms.conf
 *.dis
 
 *:tests
+*.out
+
+Dockerfile
